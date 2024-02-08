@@ -22,7 +22,7 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 27 years old, currently living in Brazil. I have fluency in English and have experience with C++, C#, Python, Ruby, Unreal, Unity, Data Analysis, Data visualization. I'm also a content creator of games independent since 2014, which helped me develop important skills such as creativity, desingner, marketing, devlopment of plot, community and team management.
+  - 💬 I am 27 years old, currently living in Brazil. I have fluency in English and have experience with C++, C#, Python, Ruby, Unreal, Unity, Data Analysis, Data visualization. I'm also a content creator of games independent since 2014, which helped me develop important skills such as creativity, desingner, marketing, develop of plot, community and team management.
     
   - ✨ Creating bugs since 2013, 14 years old I made my first game in Ruby
 
