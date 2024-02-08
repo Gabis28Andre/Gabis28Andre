@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Gabriel! A passionate Data Analitics student from Brazil.
 
-  - 🌱 I’m currently studying Data Analitics and Computer Science at federal institute in Brazil <img align="center" alt="html5" src="https://portal.utfpr.edu.br/++theme++utfpr_branco/img/logo.png" />
+  - 🌱 I’m currently studying Data Analitics and Computer Science at federal institute in Brazil <img align="center" alt="UTFPR" src="https://portal.utfpr.edu.br/++theme++utfpr_branco/img/logo.png" />
 
   - 💞️ I currently work as an educational robotics teacher
 
@@ -55,9 +55,9 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" alt="C#" height="30" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     <img align="center" alt="Ruby" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" />
-    <img align="center" alt="Unreal" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+    <img align="center" alt="Unreal" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" />
     <img align="center" alt="Unity" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
     <img align="center" alt="Blender" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
     
