@@ -6,7 +6,7 @@
 ---
 <!-- Presentation -->
 <p>
-Hi 👋, I'm Gabriel! A passionate Data Analitics student from Brazil.
+Hi 👋, I'm Gabriel! A passionate Data Analitics professonal and graduated in hardware maintenance.
 
   - 📚 I’m currently studying Data Analitics and Computer Science at federal institute in Brazil  ![UTFPR](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/957d8609-1c2d-4c65-8d63-fe3304011b77)
 
@@ -20,6 +20,8 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics student from Brazil.
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I am 27 years old, currently living in Brazil. I have fluency in English and have experience with C++, C#, Python, Ruby, Unreal, Unity, Data Analysis, Data visualization. I'm also a content creator of games independent since 2014, which helped me develop important skills such as creativity, desingner, marketing, devlopment of plot, community and team management.
+    
+  - ✨ Creating bugs since 2013, 14 years old I made my first game in Ruby
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching animes and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
@@ -63,6 +65,8 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics student from Brazil.
     <img align="center" alt="Unreal" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" />
     <img align="center" alt="Unity" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
     <img align="center" alt="Blender" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+    <img align="center" alt="Blender" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+
     
   </div>
  
