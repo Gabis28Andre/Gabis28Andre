@@ -40,10 +40,10 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 
 <!-- Portfolio -->
 ## ✨ Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
+- [Python - Exploratory data analysis](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Python)
 - [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+- [C++ - Registration and query system](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/C%2B%2B)
 ---
 ## 🎲 Gamer
 <!-- GIF -->
