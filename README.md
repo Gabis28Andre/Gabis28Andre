@@ -3,7 +3,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-
+---
 <!-- Presentation -->
 <p>
 Hi 👋, I'm Gabriel! A passionate Data Analitics student from Brazil.
