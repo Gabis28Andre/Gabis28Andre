@@ -115,7 +115,7 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 - ✨ Creating bugs since 2013
 - 📚 I'm currently learning degree in computing
 - 🎯 Goals: ...
-- 🎲 Favorite Games: GTA V, Assasin's Creed Mirage, EFootBall
+- 🎲 Favorite Games: GTA V, Assasin's Creed Mirage, EFootBall, Allan Wake
 
 <!---
 Gabis28Andre/Gabis28Andre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
