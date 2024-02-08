@@ -8,9 +8,9 @@
 <p>
   Hi 👋, I'm Gabriel! A passionate Data Analitics student from Brazil.
 
-  - 🌱 I’m currently studying Data Analitics and Computer Science at federal institute in Brazil
+  - 🌱 I’m currently studying Data Analitics and Computer Science at federal institute in Brazil [![UTFPR](https://portal.utfpr.edu.br/icones/cabecalho/logo-utfpr/image_view_fullscreen)]()
   
-    <img align="center" alt="UTFPR" src="https://portal.utfpr.edu.br/icones/cabecalho/logo-utfpr/image_view_fullscreen" />
+  
 
   - 💞️ I currently work as an educational robotics teacher
 
