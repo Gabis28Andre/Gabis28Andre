@@ -3,20 +3,18 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
-
+---
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Gabriel! A passionate Data Analitics student from Brazil.
+Hi 👋, I'm Gabriel! A passionate Data Analitics student from Brazil.
 
   - 🌱 I’m currently studying Data Analitics and Computer Science at federal institute in Brazil  ![UTFPR](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/957d8609-1c2d-4c65-8d63-fe3304011b77)
-
-  
 
   - 💞️ I currently work as an educational robotics teacher
 
   - 🔭 I'm looking for an opportunity to work on a big project. My dream is to one day work with Games.
 </p>
-
+---
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
@@ -25,30 +23,30 @@
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching animes and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
-
+---
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielgonx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andre-goncalves-164506133/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
-
+---
 <!-- GithubStats -->
 ![Gabis28Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabis28Andre&show_icons=true&theme=gotham)
-
+---
 <!-- Portfolio -->
 ## Portfolio:
 - [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
 - [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
 - [C - Registration and query system](https://github.com/VariableBee/Cartorio)
-
+---
 <!-- GIF -->
 <p align="left">
   <img align="center" src=https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/ec56e3dd-a09f-4be6-90db-dc98b56a6ff5 alt="Imagem">
 
 
 </p>
-
+---
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
@@ -66,7 +64,7 @@
     <img align="center" alt="Blender" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
     
   </div>
-  
+  ---
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
@@ -76,7 +74,7 @@
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   </div>
-  
+  ---
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
