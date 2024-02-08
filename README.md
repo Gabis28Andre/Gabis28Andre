@@ -8,7 +8,7 @@
 <p>
 Hi 👋, I'm Gabriel! A passionate Data Analitics student from Brazil.
 
-  - 🌱 I’m currently studying Data Analitics and Computer Science at federal institute in Brazil  ![UTFPR](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/957d8609-1c2d-4c65-8d63-fe3304011b77)
+  - 📚 I’m currently studying Data Analitics and Computer Science at federal institute in Brazil  ![UTFPR](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/957d8609-1c2d-4c65-8d63-fe3304011b77)
 
   - 💞️ I currently work as an educational robotics teacher
 
@@ -34,12 +34,13 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics student from Brazil.
 ![Gabis28Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabis28Andre&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
-## Portfolio:
+## ✨ Portfolio:
 - [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
 - [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
 - [C - Registration and query system](https://github.com/VariableBee/Cartorio)
 ---
+## 🎲 Gamer
 <!-- GIF -->
 <p align="left">
   <img align="center" src=https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/ec56e3dd-a09f-4be6-90db-dc98b56a6ff5 alt="Imagem">
@@ -64,7 +65,7 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics student from Brazil.
     <img align="center" alt="Blender" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
     
   </div>
-  
+ 
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
@@ -104,6 +105,10 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics student from Brazil.
 - 📫 How to reach me, instagram @gabrielgonx...
 - 😄 Pronouns: normal pronoun, he his ...
 - ⚡ Fun fact: I like playing my own games that I create...
+- ✨ Creating bugs since ...
+- 📚 I'm currently learning ...
+- 🎯 Goals: ...
+- 🎲 Fun fact: ...
 
 <!---
 Gabis28Andre/Gabis28Andre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
