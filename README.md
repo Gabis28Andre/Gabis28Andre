@@ -8,7 +8,8 @@
 <p>
 Hi 👋, I'm Gabriel! A passionate Data Analitics professonal and graduated in hardware maintenance.
 
-  - 📚 I’m currently studying Data Analitics and Computer Science at federal institute in Brazil  ![UTFPR](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/957d8609-1c2d-4c65-8d63-fe3304011b77)
+  - 📚 I’m currently studying Data Analitics and Computer Science at federal technological institute in Brazil
+     ![UTFPR](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/957d8609-1c2d-4c65-8d63-fe3304011b77)
 
   - 💞️ I currently work as an educational robotics teacher
 
