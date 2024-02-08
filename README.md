@@ -37,7 +37,7 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 
 <!-- GithubStats -->
 ![Gabis28Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabis28Andre&show_icons=true&theme=gotham)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabis28Andre&show_icons=true&theme=gotham)](https://github.com/Gabis28Andre/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabis28Andre_icons=true&theme=gotham)](https://github.com/Gabis28Andre/github-readme-stats)
 
 <!-- Portfolio -->
 ## ✨ Portfolio:
