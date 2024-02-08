@@ -44,7 +44,9 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/Gabis28Andre/Gabis28Andre/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src=https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/ec56e3dd-a09f-4be6-90db-dc98b56a6ff5 alt="Imagem">
+
+
 </p>
 
 ## 🔥 Skills
