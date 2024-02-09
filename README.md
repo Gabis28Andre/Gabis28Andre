@@ -35,6 +35,11 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
 
 <!-- GithubStats -->
+<div align="center">
+  <a href="https://github.com/Gabis28Andre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabis28Andre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabis28Andre&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 ![Gabis28Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabis28Andre&show_icons=true&theme=gotham)
 
 
