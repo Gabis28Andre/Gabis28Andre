@@ -47,6 +47,7 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 - [Python - Data Resource Exploration](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Python)
 - [C++ - Software Features](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/C%2B%2B)
 - [Arduino - Arduino Projects](https://github.com/Gabis28Andre/Arduino-Project)
+- [Certificates that helped me learn](https://github.com/Gabis28Andre/Minhas-Certificacoes)
   
 ---
 ## 🎲 Evento de Tecnologia
