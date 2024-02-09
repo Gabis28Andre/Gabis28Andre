@@ -52,8 +52,7 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 ## 🎲 Gamer
 <!-- GIF -->
 <p align="left">
-  <img align="center" src=https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/ec56e3dd-a09f-4be6-90db-dc98b56a6ff5 alt="Imagem">
-
+![Panfleto para evento de tecnologia (1)](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/70c20d5c-24e9-4e40-a9d3-c5fbdaa74d37)
 
 </p>
 
