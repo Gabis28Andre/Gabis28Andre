@@ -30,7 +30,7 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GabrielAndref28?si=AkvDINt7jhF73cvY)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielgonx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andre-goncalves-164506133/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
@@ -42,8 +42,6 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 <!-- Portfolio -->
 ## ✨ Portfolio:
 - [Python - Exploratory data analysis](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Python)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
 - [C++ - Registration and query system](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/C%2B%2B)
 ---
 ## 🎲 Gamer
