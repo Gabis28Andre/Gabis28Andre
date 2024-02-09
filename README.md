@@ -49,10 +49,11 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 - [Arduino - Arduino Projects](https://github.com/Gabis28Andre/Arduino-Project)
   
 ---
-## 🎲 Gamer
+## 🎲 Evento de Tecnologia
 <!-- GIF -->
 <p align="left">
-![Panfleto para evento de tecnologia (1)](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/70c20d5c-24e9-4e40-a9d3-c5fbdaa74d37)
+![Panfleto para evento de tecnologia (1)](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/4a17308d-2690-42d5-8551-e80e6cf6cd65)
+
 
 </p>
 
