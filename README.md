@@ -41,8 +41,8 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 
 <!-- Portfolio -->
 ## ✨ Portfolio:
-- [Python - Exploratory data analysis](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Python)
-- [C++ - Registration and query system](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/C%2B%2B)
+- [Python - Data Resource Exploration](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Python)
+- [C++ - Software Features](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/C%2B%2B)
 ---
 ## 🎲 Gamer
 <!-- GIF -->
