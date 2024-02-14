@@ -15,7 +15,7 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 
   - 💞️ I currently work as an educational robotics teacher
 
-  - 🔭 I'm looking for an opportunity to work on a big project. My dream is to one day work with Games.
+  - 🔭 I'm looking for an opportunity to work on a big project. My dream is to one day work with a revolutionary and very profitable software.
 </p>
 
 <!-- Dropdown -->
