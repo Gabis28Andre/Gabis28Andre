@@ -46,6 +46,7 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 ## ✨ Portfolio:
 - [Python - Data Resource Exploration](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Python)
 - [C++ - Software Features](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/C%2B%2B)
+- [Java - Software Features](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Java)
 - [Arduino - Arduino Projects](https://github.com/Gabis28Andre/Arduino-Project)
 - [Certificates that helped me learn](https://github.com/Gabis28Andre/Minhas-Certificacoes)
   
